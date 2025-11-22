@@ -1,4 +1,4 @@
-# web-music-score
+# Web Music Score
 
 This repository has moved to dedicated GitHub-account
 [github.com/web-music-score/wms](https://github.com/web-music-score/wms).
